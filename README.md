@@ -69,3 +69,4 @@ CREATE TABLE rapid_dev.`order` (
 ENGINE=InnoDB
 COMMENT='order comment';
 ```
+
